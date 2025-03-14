@@ -15,6 +15,6 @@
     "cors": "^2.8.5",
     "express": "^4.18.2",
     "http-proxy-middleware": "^2.0.6",
-    "openai": "^3.3.0"
+    "openai": "^4.0.0"
   }
 }
